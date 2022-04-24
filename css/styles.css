@@ -1,6 +1,17 @@
+/* CSS Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
 body {
-  max-width: 80%;
+  min-height: 100vh;
+  max-width: 70%;
   background-color: aquamarine;
+  margin: 0 auto;
 }
 
 h1 {
